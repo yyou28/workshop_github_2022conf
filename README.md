@@ -1,4 +1,5 @@
 # workshop_github_2022conf
-practice from workshop.
-This is for testing.
-practice to create repo, pull request, etc.
+## Oct, 2022
+hand-on workshop:
+usage: This is for testing.
+what to learn: practice to create repo, pull request, etc.
